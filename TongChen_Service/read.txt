@@ -1,0 +1,12 @@
+http://localhost:8080/index
+
+管理员：
+admin       admin
+
+版主：
+banzhu1     banzhu1
+
+
+用户：
+yonghu001       yonghu001
+yonghu002       yonghu002
